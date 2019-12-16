@@ -2,6 +2,4 @@
 
 This is syq,
 This is gcy,
-
-aaaaa
-bbbbb
+ccc
